@@ -1,16 +1,13 @@
-### Hi there 👋
+# Yago Cardoso 💻
 
-<!--
-**YagoCardoso/yagocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/yago-cardoso-194b2016a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="http://instagram.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 
-Here are some ideas to get you started:
+Full Stack Developer 
+#### Skills: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Asp.Net, SQL Server, SPA, Typescript, Html, CSS, JavaScript,.
+
+<h1 align="center">
+<img alt="YagoCardoso" src="https://github-readme-stats.codestackr.vercel.app/api?username=yagocardoso&show_icons=true&hide_border=true&theme=dark" />
+</h1>
