@@ -6,7 +6,7 @@
 Full Stack Developer 
 #### Skills: 
 
-💻 Asp.Net, SQL Server, SPA, Typescript, Html, CSS, JavaScript,.
+💻 Asp.Net, SQL Server, SPA, Html, CSS, JavaScript,.
 
 <h1 align="center">
 <img alt="YagoCardoso" src="https://github-readme-stats.codestackr.vercel.app/api?username=yagocardoso&show_icons=true&hide_border=true&theme=dark" />
