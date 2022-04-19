@@ -1,13 +1,23 @@
-# Yago Cardoso 💻
+### Olá, sou o Yago Cardoso 👋
 
-<a href="https://www.linkedin.com/in/yago-cardoso-194b2016a/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="http://instagram.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+ Software Engineer
 
-Full Stack Developer 
-#### Skills: 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagocardoso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocardoso&layout=compact&langs_count=6&theme=algolia"/>
+</div>
 
-💻 Asp.Net, SQL Server, C#, Html, CSS, Javascript. Frameworks: JQuery, React and Vue.
+<!--
+**renatogroffe/renatogroffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h1 align="center">
-<img alt="YagoCardoso" src="https://github-readme-stats.codestackr.vercel.app/api?username=yagocardoso&show_icons=true&hide_border=true&theme=dark" />
-</h1>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...,
+- ⚡ Fun fact: ...
+-->
